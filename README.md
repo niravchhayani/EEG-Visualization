@@ -21,3 +21,23 @@ Data Collection process:
 * The final column is subject_id. Subject ID is unique ID assigned to each subject. It is an alphanumeric datatype. 4th letter of this alphanumeric data is either 'c' or 'a'. From here also, we can find if the subject is from alcoholic group or control group. 'a' = alcoholic, 'c' = control.
 
 The dataset is in compressed file format. To decompress the data and create dataframe from it, is describe in the data_preprocessing notebook.
+
+# Database link:
+This dataset is avialable for everyone to use for experiment and learning purpose. Link to download data is here.
+https://archive.ics.uci.edu/ml/datasets/EEG+Database#:~:text=Data%20Set%20Information%3A,of%20subjects%3A%20alcoholic%20and%20control.
+
+The dataset is prepared by: 
+
+Original Owner:
+
+Henri Begleiter\
+Neurodynamics Laboratory,\
+State University of New York Health Center\
+Brooklyn, New York
+
+# References:
+There are no usage restrictions on this data.
+
+Acknowledgments for this data should made to Henri Begleiter at the Neurodynamics Laboratory at the State University of New York Health Center at Brooklyn.
+
+Plots are courtesy of Roger Gabriel.
